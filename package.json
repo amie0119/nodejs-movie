@@ -1,0 +1,37 @@
+{
+  "name": "movie",
+  "version": "1.0.1",
+  "description": "show delete movie",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^0.8.6",
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "moment": "^2.13.0",
+    "mongoose": "^4.4.17",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-concurrent": "^2.3.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-nodemon": "^0.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amie0119/nodejs-movie.git"
+  },
+  "keywords": [
+    "movie"
+  ],
+  "author": "amie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amie0119/nodejs-movie/issues"
+  },
+  "homepage": "https://github.com/amie0119/nodejs-movie#readme"
+}

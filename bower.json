@@ -1,0 +1,24 @@
+{
+  "name": "movie",
+  "homepage": "https://github.com/amie0119/nodejs-movie",
+  "description": "show delete movie",
+  "main": "",
+  "keywords": [
+    "movie"
+  ],
+  "authors": [
+    "amie"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
